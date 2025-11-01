@@ -1,5 +1,5 @@
 {
-  "name": "Neural Network XOR Visualizer",
-  "description": "A from-scratch implementation of a simple neural network that learns the XOR problem. This interactive demo visualizes the neurons and the strength of their connections (weights) in real-time as the network trains using feedforward and backpropagation.",
+  "name": "Myanmar Name Gender Classifier",
+  "description": "An interactive demo of a simple neural network built from scratch that learns to classify the gender of Myanmar names. It visualizes the network's neurons and weights in real-time as it trains using backpropagation.",
   "requestFramePermissions": []
 }
