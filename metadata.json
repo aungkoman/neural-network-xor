@@ -1,0 +1,5 @@
+{
+  "name": "Neural Network XOR Visualizer",
+  "description": "A from-scratch implementation of a simple neural network that learns the XOR problem. This interactive demo visualizes the neurons and the strength of their connections (weights) in real-time as the network trains using feedforward and backpropagation.",
+  "requestFramePermissions": []
+}
